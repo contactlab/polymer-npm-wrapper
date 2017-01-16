@@ -1,0 +1,12 @@
+{
+  "name": "polymer-npm-wrapper",
+  "version": "0.0.1",
+  "description": "Unofficial wrapper for getting latest version of Polymer from NPM registry.",
+  "main": "index.js",
+  "repository": "https://github.com/contactlab/polymer-npm-wrapper.git",
+  "author": "Contactlab Product Team <developer@contactlab.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@polymer/polymer": "https://github.com/Polymer/polymer"
+  }
+}
