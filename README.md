@@ -1,5 +1,5 @@
 # polymer-npm-wrapper
-Unofficial wrapper for getting latest version of Polymer from NPM registry.
+Unofficial wrapper for getting latest version of Polymer from Git as NPM dependency and exporting it as ES2015 module.
 
 ### How to use
 Install with Yarn or NPM client

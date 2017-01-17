@@ -1,7 +1,7 @@
 {
   "name": "polymer-npm-wrapper",
-  "version": "0.0.1",
-  "description": "Unofficial wrapper for getting latest version of Polymer from NPM registry.",
+  "version": "0.0.2",
+  "description": "Unofficial wrapper for getting latest version of Polymer from Git as NPM dependency and exporting it as ES2015 module.",
   "main": "index.js",
   "repository": "https://github.com/contactlab/polymer-npm-wrapper.git",
   "author": "Contactlab Product Team <developer@contactlab.com>",
