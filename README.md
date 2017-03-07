@@ -1,5 +1,5 @@
 # polymer-npm-wrapper
-Unofficial wrapper for getting latest version of Polymer from Git as NPM dependency and exporting it as ES2015 module.
+Unofficial wrapper for getting Polymer v1.8.1 from Git as NPM dependency and exporting it as ES2015 module.
 
 ### How to use
 Install with Yarn or NPM client
@@ -22,6 +22,11 @@ import
 ```js
 import {Polymer} from "polymer-npm-wrapper";
 ```
+
+### Known issues
+1. Since Polymer isn't defined as an ES2015 module you **have to** to import both the HTML file and the JS module.
+2. This package downloads Polymer from the GitHub repo at its latest version, but do not directly downloads all of the dependencies. You may need them if you want to use some of its CLI tools, like WCT.
+
 
 ### License
 Released under the [Apache 2.0 license](LICENSE).
