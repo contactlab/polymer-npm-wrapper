@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"@polymer/polymer@https://github.com/Polymer/polymer":
-  version "1.7.1"
-  resolved "https://github.com/Polymer/polymer#345e2c5fee963c955b2e6ceb172d89309a815de1"
+"@polymer/polymer@https://github.com/Polymer/polymer#7d460dd3fafa461eaef0a4ce647e4e244a87e65e":
+  version "1.8.1"
+  resolved "https://github.com/Polymer/polymer#7d460dd3fafa461eaef0a4ce647e4e244a87e65e"
