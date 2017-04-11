@@ -21,6 +21,6 @@
   ],
   "dependencies": {
     "@polymer/polymer": "https://github.com/Polymer/polymer",
-    "@webcomponents/shadycss": "https://github.com/webcomponents/shadycss",
+    "@webcomponents/shadycss": "https://github.com/webcomponents/shadycss"
   }
 }
