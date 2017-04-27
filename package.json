@@ -8,7 +8,8 @@
   "license": "Apache-2.0",
   "scripts": {
     "extract": "webpack",
-    "download": "npm install --save https://github.com/Polymer/polymer"
+    "download": "npm install --save https://github.com/Polymer/polymer",
+    "bump": "node ./actions/bump"
   },
   "keywords": [
     "polymer",
