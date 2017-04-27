@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
   entry: [
-    './node_modules/@polymer/polymer/polymer-element.html'
+    './../@polymer/polymer/polymer-element.html'
   ],
   output: {
     path: path.join(__dirname, '.'),
