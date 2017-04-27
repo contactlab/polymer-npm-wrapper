@@ -7,7 +7,8 @@
   "author": "Contactlab Product Team <developer@contactlab.com>",
   "license": "Apache-2.0",
   "scripts": {
-    "postinstall": "webpack"
+    "extract": "webpack",
+    "download": "npm install --save https://github.com/Polymer/polymer"
   },
   "keywords": [
     "polymer",
@@ -23,7 +24,7 @@
     "modules"
   ],
   "dependencies": {
-    "@polymer/polymer": "https://github.com/Polymer/polymer",
+    "@polymer/polymer": "git+https://github.com/Polymer/polymer.git",
     "@webcomponents/shadycss": "https://github.com/webcomponents/shadycss"
   },
   "devDependencies": {
