@@ -1,23 +1,11 @@
 {
   "name": "polymer-npm-wrapper",
-<<<<<<< HEAD
-  "version": "v2.0.0-rc4",
-=======
-  "version": "v1.0.1",
->>>>>>> polymer-1
+  "version": "v1.1",
   "description": "Unofficial wrapper for getting latest version of Polymer from Git as NPM dependency and exporting it as ES2015 module.",
-  "main": "polymer-element.js",
+  "main": "index.js",
   "repository": "https://github.com/contactlab/polymer-npm-wrapper.git",
   "author": "Contactlab Product Team <developer@contactlab.com>",
   "license": "Apache-2.0",
-<<<<<<< HEAD
-  "scripts": {
-    "extract": "webpack",
-    "download": "npm install --save https://github.com/Polymer/polymer",
-    "bump": "node ./actions/bump"
-  },
-=======
->>>>>>> polymer-1
   "keywords": [
     "polymer",
     "npm",
@@ -32,15 +20,6 @@
     "modules"
   ],
   "dependencies": {
-<<<<<<< HEAD
-    "@polymer/polymer": "git+https://github.com/Polymer/polymer.git",
-    "@webcomponents/shadycss": "https://github.com/webcomponents/shadycss"
-  },
-  "devDependencies": {
-    "wc-loader": "^1.1.3",
-    "webpack": "^2.4.1"
-=======
     "@polymer/polymer": "https://github.com/Polymer/polymer#7d460dd3fafa461eaef0a4ce647e4e244a87e65e"
->>>>>>> polymer-1
   }
 }
