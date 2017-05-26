@@ -2,6 +2,7 @@
 # yarn lockfile v1
 
 
+<<<<<<< HEAD
 "@polymer/polymer@https://github.com/Polymer/polymer":
   version "2.0.0-rc.7"
   resolved "https://github.com/Polymer/polymer#4897b678c6b88a69a74fe6c9d3eada244b7da074"
@@ -2007,3 +2008,8 @@ yargs@~3.10.0:
     cliui "^2.1.0"
     decamelize "^1.0.0"
     window-size "0.1.0"
+=======
+"@polymer/polymer@https://github.com/Polymer/polymer#7d460dd3fafa461eaef0a4ce647e4e244a87e65e":
+  version "1.8.1"
+  resolved "https://github.com/Polymer/polymer#7d460dd3fafa461eaef0a4ce647e4e244a87e65e"
+>>>>>>> polymer-1
