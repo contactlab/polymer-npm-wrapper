@@ -1,4 +1,6 @@
-# polymer-npm-wrapper - :warning: Deprecated
+# :warning: This project is no longer mantained
+
+# polymer-npm-wrapper
 Unofficial wrapper for getting Polymer v1.8.1 from Git as NPM dependency and exporting it as ES2015 module.
 
 ### How to use
